@@ -48,5 +48,4 @@ public class UsersRestController {
                 userService.updateUser(user, id)
         );
     }
-
 }
